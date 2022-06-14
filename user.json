@@ -1,0 +1,17 @@
+{
+  "name": "Luis",
+  "lastname": "roberto",
+  "age": 20,
+  "adress": { 
+      "street": "123 Main", 
+      "city": "tecamac" 
+  },
+  "married": false,
+  "friends": [
+    { "name": "Luis", "nickname": "wicho" },
+    { "name": "Raul", "nickname": "Ruls" },
+    { "name": "Daniel", "nickname": "Dany" },
+    { "name": "Jesus", "nickname": "Chuy" },
+    { "name": "Jose", "nickname": "Josh" }
+  ]
+}
